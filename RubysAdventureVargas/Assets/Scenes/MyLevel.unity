@@ -86102,12 +86102,20 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1461628099332870178, guid: 9160288fbe5346f4aae3ddb5ff6ff565, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.94174194
+      objectReference: {fileID: 0}
+    - target: {fileID: 1461628099332870178, guid: 9160288fbe5346f4aae3ddb5ff6ff565, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.90517724
+      objectReference: {fileID: 0}
+    - target: {fileID: 1461628099332870178, guid: 9160288fbe5346f4aae3ddb5ff6ff565, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.702339
+      value: -7.35
       objectReference: {fileID: 0}
     - target: {fileID: 1461628099332870178, guid: 9160288fbe5346f4aae3ddb5ff6ff565, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.6096913
+      value: -2.35
       objectReference: {fileID: 0}
     - target: {fileID: 1461628099332870178, guid: 9160288fbe5346f4aae3ddb5ff6ff565, type: 3}
       propertyPath: m_LocalPosition.z
@@ -86144,6 +86152,14 @@ PrefabInstance:
     - target: {fileID: 1461628099332870190, guid: 9160288fbe5346f4aae3ddb5ff6ff565, type: 3}
       propertyPath: m_Name
       value: Robot
+      objectReference: {fileID: 0}
+    - target: {fileID: 7007514864421320436, guid: 9160288fbe5346f4aae3ddb5ff6ff565, type: 3}
+      propertyPath: m_UpdateMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7007514864421320436, guid: 9160288fbe5346f4aae3ddb5ff6ff565, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9160288fbe5346f4aae3ddb5ff6ff565, type: 3}

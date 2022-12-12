@@ -24,7 +24,12 @@ public class RubyController : MonoBehaviour
     float horizontal;
     float vertical;
 
-    // Start is called before the first frame update
+    Vector2 move = new Vector2(horizontal, vertical);
+
+
+    if(!Mathf.Approximately(move.x. 0.0f) || !Mathf.Approximately(move.y, 0.0f))
+    {
+        look
     void Start()
     {
         rigidbody2d = GetComponent<Rigidbody2D>();
